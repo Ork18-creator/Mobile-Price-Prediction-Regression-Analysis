@@ -37,12 +37,8 @@ RAM and Battery Power are the most important predictors of mobile price.
 
 All models performed reasonably well, but Random Forest Regressor achieved the best accuracy, capturing non-linear relationships.
 
+
 ⚙️ Installation & Usage
-
-Clone the repository:
-
-git clone https://github.com/your-username/mobile-price-regression.git
-cd mobile-price-regression
 
 
 Install dependencies:
